@@ -19,12 +19,12 @@ class ProfesorSeeder extends Seeder
         factory(Profesor::class,18)->create();
        /* DB::table('profesor')->insert([
             'id_profesor'=> '1',
-            'name'=> 'Edgar',
-            'apellido'=> 'Moran',
-            'dui'=> '000934-8727',
+            'name'=> 'Jorge',
+            'apellido'=> 'coto',
+            'dui'=> '000934-1',
             'telefono'=> '76365268',
-            'email'=> 'edgarmoran1999@gmail.com',
-            'password'=> bcrypt('profe123')
+            'email'=> 'z.44@gmail.com',
+            'password'=> bcrypt('profe22')
         ]);*/
     }
 }

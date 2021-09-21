@@ -18,15 +18,15 @@ class AlumnosSeeder extends Seeder
        /* Alumnos::create(
             [
             'id_alumno'=> '1',
-            'name'=> 'Esau',
-            'apellido'=> 'Zelaya',
-            'fecha_nacimiento'=> '16/01/2001',
-            'direccion'=> 'Colonia San luis',
+            'name'=> 'Ander',
+            'apellido'=> 'Argueta',
+            'fecha_nacimiento'=> '23/10/2000',
+            'direccion'=> 'col. el chaparral',
             'genero'=> 'M',
-            'apellido'=> 'Zelaya',
-            'telefono'=> '72814956',
-            'email'=> 'esaumoran199@gmail.com',
-            'password'=> bcrypt('esau123')
+            'apellido'=> 'Argueta',
+            'telefono'=> '740884888',
+            'email'=> 'ander@gmail.com',
+            'password'=> bcrypt('ander23')
             
              ]
         );*/

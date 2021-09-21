@@ -9,7 +9,7 @@ $factory->define(Profesor::class, function (Faker $faker) {
         'apellido' => 'coto',
         'dui' => '0995555-1',
         'telefono' => '7076473736',
-        'email'=> 'z.44@gmail.com',
+        'email'=> 'z.c 44@gmail.com',
         'password'=> bcrypt('zelaco222')
     ];
 });
